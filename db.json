@@ -1,0 +1,92 @@
+{
+    "users": [
+      {
+        "name": "Chandra",
+        "age": 29,
+        "place": "Visakhapatnam",
+        "batch_name": "WEB-13",
+        "profession": "Student",
+        "id": 1
+      },
+      {
+        "name": "Manikant Kumar",
+        "age": "18",
+        "place": "Bihar",
+        "batch_name": "WEB-16",
+        "profession": "Student",
+        "id": 3
+      },
+      {
+        "name": "Anushka",
+        "age": "21",
+        "place": "Aurangabad",
+        "batch_name": "WEB-14",
+        "profession": "Frontend",
+        "id": 4
+      },
+      {
+        "name": "Iphone 12",
+        "age": "67",
+        "place": "Patna",
+        "batch_name": "WEB-13",
+        "profession": "FSD",
+        "id": 6
+      },
+      {
+        "name": "Prakash",
+        "age": "22",
+        "place": "Nalanda",
+        "batch_name": "WEB-14",
+        "profession": "Frontend",
+        "id": 7
+      },
+      {
+        "name": "abhishekl",
+        "age": "34",
+        "place": "aurangabad",
+        "batch_name": "WEB-14",
+        "profession": "Frontend",
+        "id": 8
+      },
+      {
+        "name": "Vijay",
+        "age": "22",
+        "place": "Banaras",
+        "batch_name": "WEB-15",
+        "profession": "Frontend",
+        "id": 9
+      },
+      {
+        "name": "pragati",
+        "age": "34",
+        "place": "aurangabad",
+        "batch_name": "WEB-14",
+        "profession": "Frontend",
+        "id": 10
+      },
+      {
+        "name": "Vivek",
+        "age": "54",
+        "place": "ranchy",
+        "batch_name": "WEB-16",
+        "profession": "Backend",
+        "id": 11
+      },
+      {
+        "name": "rinki",
+        "age": "34",
+        "place": "aurangabad",
+        "batch_name": "WEB-14",
+        "profession": "Student",
+        "id": 12
+      },
+      {
+        "name": "Rupesh",
+        "age": "65",
+        "place": "Barun",
+        "batch_name": "WEB-13",
+        "profession": "Backend",
+        "id": 13
+      }
+    ]
+  }

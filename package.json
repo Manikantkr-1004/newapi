@@ -1,0 +1,23 @@
+{
+  "name": "newapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manikantkr-1004/newapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manikantkr-1004/newapi/issues"
+  },
+  "homepage": "https://github.com/Manikantkr-1004/newapi#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
